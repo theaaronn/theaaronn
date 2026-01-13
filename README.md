@@ -1,31 +1,37 @@
-<div>
-  <div style="display: flex; align-items: center; gap: 20px;flex-wrap:wrap">
-    <div style="flex: 1; align-items:center;">
-      <h1>I'm Aaron</h1>
-      <p style="font-size:16px">
-        3 years of building backend systems.<br>   
-        Probably hanging out in a CLI app
-      </p>
-    </div>
-    <img src="./assets/gopher.gif" alt="Gopher" width="200"/>
-  </div>
-</div>
+# I'm Aaron
+
+3 years of building backend systems.  
+Probably hanging out in a CLI app
 
 ---
 
-<div align="center">
-
 ### Tech Stack
 
-|                                                 **Languages**                                                 |                                           **Libraries**                                            |                                                                                **Backend**                                                                                |
-| :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![golang](./assets/go.svg)](https://go.dev) [![bash](./assets/bash.svg)](https://www.gnu.org/software/bash/) | [![templ](./assets/templ.svg)](https://templ.guide) [![htmx](./assets/htmx.svg)](https://htmx.org) | [![postgres](./assets/postgresql.svg)](https://www.postgresql.org) [![mysql](./assets/mysql.svg)](https://www.mysql.com) [![redis](./assets/redis.svg)](https://redis.io) |
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td valign="top" width="50%" style="border: none;">
 
-|                                                                                                                   **Infrastructure**                                                                                                                   |                                                    **Tools**                                                    |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
-| [![hetzner](./assets/hetzner.svg)](https://www.hetzner.com) [![digitalocean](./assets/digitalocean.svg)](https://www.digitalocean.com) [![dokploy](./assets/dokploy.svg)](https://dokploy.com/) [![linux](./assets/linux.svg)](https://www.kernel.org) | [![vscode](./assets/vscode.svg)](https://code.visualstudio.com) [![git](./assets/git.svg)](https://git-scm.com) |
+**Languages**  
+[![golang](./assets/go.svg)](https://go.dev) [![bash](./assets/bash.svg)](https://www.gnu.org/software/bash/)
 
-</div>
+**Backend**  
+[![postgres](./assets/postgresql.svg)](https://www.postgresql.org) [![mysql](./assets/mysql.svg)](https://www.mysql.com) [![redis](./assets/redis.svg)](https://redis.io)
+
+**Tools**  
+[![vscode](./assets/vscode.svg)](https://code.visualstudio.com) [![git](./assets/git.svg)](https://git-scm.com) [![wsl](./assets/wsl.svg)](https://learn.microsoft.com/en-us/windows/wsl/) 
+
+</td>
+<td valign="top" width="50%" style="border: none;">
+
+**Libraries**  
+[![templ](./assets/templ.svg)](https://templ.guide) [![htmx](./assets/htmx.svg)](https://htmx.org)
+
+**Infrastructure**  
+[![hetzner](./assets/hetzner.svg)](https://www.hetzner.com) [![digitalocean](./assets/digitalocean.svg)](https://www.digitalocean.com) [![dokploy](./assets/dokploy.svg)](https://dokploy.com/) [![linux](./assets/linux.svg)](https://www.kernel.org)
+
+</td>
+</tr>
+</table>
 
 ---
 
