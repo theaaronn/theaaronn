@@ -47,6 +47,8 @@ platforms are powerful, but I prefer the transparency and cost model of a VPS.
 **CLI-First**  
 Most of my workflow happens in the terminal. I prefer keeping my hands on the keyboard than reaching for my mouse.
 
+---
+
 ### Connect with me
 
 [Email](mailto:caper2711@hotmail.com)
