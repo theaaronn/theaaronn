@@ -7,10 +7,6 @@ Probably hanging out in a CLI app
 
 ### Tech Stack
 
-<table style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td valign="top" width="50%" style="border: none;">
-
 **Languages**  
 [![golang](./assets/go.svg)](https://go.dev) [![bash](./assets/bash.svg)](https://www.gnu.org/software/bash/)
 
@@ -20,18 +16,11 @@ Probably hanging out in a CLI app
 **Tools**  
 [![vscode](./assets/vscode.svg)](https://code.visualstudio.com) [![git](./assets/git.svg)](https://git-scm.com) [![wsl](./assets/wsl.svg)](https://learn.microsoft.com/en-us/windows/wsl/) 
 
-</td>
-<td valign="top" width="50%" style="border: none;">
-
 **Libraries**  
 [![templ](./assets/templ.svg)](https://templ.guide) [![htmx](./assets/htmx.svg)](https://htmx.org)
 
 **Infrastructure**  
 [![hetzner](./assets/hetzner.svg)](https://www.hetzner.com) [![digitalocean](./assets/digitalocean.svg)](https://www.digitalocean.com) [![dokploy](./assets/dokploy.svg)](https://dokploy.com/) [![linux](./assets/linux.svg)](https://www.kernel.org)
-
-</td>
-</tr>
-</table>
 
 ---
 
