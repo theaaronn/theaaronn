@@ -20,7 +20,7 @@ Probably hanging out in a CLI app
 [![templ](./assets/templ.svg)](https://templ.guide) [![htmx](./assets/htmx.svg)](https://htmx.org)
 
 **Infrastructure**  
-[![hetzner](./assets/hetzner.svg)](https://www.hetzner.com) [![digitalocean](./assets/digitalocean.svg)](https://www.digitalocean.com) [![dokploy](./assets/dokploy.svg)](https://dokploy.com/) [![linux](./assets/linux.svg)](https://www.kernel.org)
+[![hetzner](./assets/hetzner.svg)](https://www.hetzner.com) [![digitalocean](./assets/digitalocean.svg)](https://www.digitalocean.com) [](https://dokploy.com/) [![linux](./assets/linux.svg)](https://www.kernel.org)
 
 ---
 
