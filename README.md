@@ -21,6 +21,7 @@ Probably hanging out in a CLI app
 Technical breakdowns and public tools.
 
 *   **[Essential Oil Knowledge Engine](https://github.com/theaaronn/portfolio/blob/main/projects/essential-oil-engine.md)**: B2B RAG platform (Go/pgvector/Redis) focused on context-bounded generation.
+*   **[KeyCrypt](https://github.com/theaaronn/keycrypt/blob/master/README.md)**: A minimalist CLI utility for generating cryptographically secure keys with support for multiple encoding specs (Hex, Base32, Base64, URL-Safe).
 
 ---
 
