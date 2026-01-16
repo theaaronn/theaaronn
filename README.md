@@ -9,11 +9,10 @@ Probably hanging out in a CLI app
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | [![golang](./assets/go.svg)](https://go.dev) [![bash](./assets/bash.svg)](https://www.gnu.org/software/bash/) |
-| **Data** | [![postgres](./assets/postgresql.svg)](https://www.postgresql.org) [![mysql](./assets/mysql.svg)](https://www.mysql.com) [![redis](./assets/redis.svg)](https://redis.io) |
-| **SSR** | [![htmx](./assets/htmx.svg)](https://htmx.org) [![templ](./assets/templ.svg)](https://templ.guide) |
-| **Platform & Ops** | [![linux](./assets/linux.svg)](https://www.kernel.org) [![wsl](./assets/wsl.svg)](https://learn.microsoft.com/en-us/windows/wsl/) [![git](./assets/git.svg)](https://git-scm.com) [![hetzner](./assets/hetzner.svg)](https://www.hetzner.com) [![digitalocean](./assets/digitalocean.svg)](https://www.digitalocean.com) |
-
+| **Languages** | <a href="https://go.dev"><img src="./assets/go.svg" height="25"></a> <a href="https://www.gnu.org/software/bash/"><img src="./assets/bash.svg" height="25"></a> |
+| **Data** | <a href="https://www.postgresql.org"><img src="./assets/postgresql.svg" height="25"></a> <a href="https://www.mysql.com"><img src="./assets/mysql.svg" height="25"></a> <a href="https://redis.io"><img src="./assets/redis.svg" height="25"></a> |
+| **SSR** | <a href="https://htmx.org"><img src="./assets/htmx.svg" height="25"></a> <a href="https://templ.guide"><img src="./assets/templ.svg" height="25"></a> |
+| **Platform & Ops** | <a href="https://www.kernel.org"><img src="./assets/linux.svg" height="25"></a> <a href="https://learn.microsoft.com/en-us/windows/wsl/"><img src="./assets/wsl.svg" height="25"></a> <a href="https://git-scm.com"><img src="./assets/git.svg" height="25"></a> <a href="https://www.hetzner.com"><img src="./assets/hetzner.svg" height="25"></a> <a href="https://www.digitalocean.com"><img src="./assets/digitalocean.svg" height="25"></a> |
 ---
 
 ### Architecture & Projects
