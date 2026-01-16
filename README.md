@@ -7,20 +7,21 @@ Probably hanging out in a CLI app
 
 ### Tech Stack
 
-**Languages**  
-[![golang](./assets/go.svg)](https://go.dev) [![bash](./assets/bash.svg)](https://www.gnu.org/software/bash/)
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | [![golang](./assets/go.svg)](https://go.dev) [![bash](./assets/bash.svg)](https://www.gnu.org/software/bash/) |
+| **Data** | [![postgres](./assets/postgresql.svg)](https://www.postgresql.org) [![mysql](./assets/mysql.svg)](https://www.mysql.com) [![redis](./assets/redis.svg)](https://redis.io) |
+| **SSR** | [![htmx](./assets/htmx.svg)](https://htmx.org) [![templ](./assets/templ.svg)](https://templ.guide) |
+| **Platform & Ops** | [![linux](./assets/linux.svg)](https://www.kernel.org) [![wsl](./assets/wsl.svg)](https://learn.microsoft.com/en-us/windows/wsl/) [![git](./assets/git.svg)](https://git-scm.com) [![hetzner](./assets/hetzner.svg)](https://www.hetzner.com) [![digitalocean](./assets/digitalocean.svg)](https://www.digitalocean.com) |
 
-**Backend**  
-[![postgres](./assets/postgresql.svg)](https://www.postgresql.org) [![mysql](./assets/mysql.svg)](https://www.mysql.com) [![redis](./assets/redis.svg)](https://redis.io)
+---
 
-**Tools**  
-[![vscode](./assets/vscode.svg)](https://code.visualstudio.com) [![git](./assets/git.svg)](https://git-scm.com) [![wsl](./assets/wsl.svg)](https://learn.microsoft.com/en-us/windows/wsl/) 
+### Architecture & Projects
 
-**Libraries**  
-[![templ](./assets/templ.svg)](https://templ.guide) [![htmx](./assets/htmx.svg)](https://htmx.org)
+**[Engineering Portfolio](https://github.com/theaaronn/portfolio)**  
+Technical breakdowns and public tools.
 
-**Infrastructure**  
-[![hetzner](./assets/hetzner.svg)](https://www.hetzner.com) [![digitalocean](./assets/digitalocean.svg)](https://www.digitalocean.com) [![linux](./assets/linux.svg)](https://www.kernel.org)
+*   **[Essential Oil Knowledge Engine](https://github.com/theaaronn/portfolio/blob/main/projects/essential-oil-engine.md)**: B2B RAG platform (Go/pgvector/Redis) focused on context-bounded generation.
 
 ---
 
