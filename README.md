@@ -3,25 +3,25 @@
 3 years of building backend systems.  
 Probably hanging out in a CLI app
 
----
 
-### Tech Stack
+### Tech and Tools
+[![Tech icons](https://skillicons.dev/icons?i=go,bash,postgres,mysql,redis,htmx,tailwind,html,css,git,github,linux,docker,vscode&perline=7)](https://skillicons.dev)
 
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | <a href="https://go.dev"><img src="./assets/go.svg" height="25"></a> <a href="https://www.gnu.org/software/bash/"><img src="./assets/bash.svg" height="25"></a> |
-| **Data** | <a href="https://www.postgresql.org"><img src="./assets/postgresql.svg" height="25"></a> <a href="https://www.mysql.com"><img src="./assets/mysql.svg" height="25"></a> <a href="https://redis.io"><img src="./assets/redis.svg" height="25"></a> |
-| **SSR** | <a href="https://htmx.org"><img src="./assets/htmx.svg" height="25"></a> <a href="https://templ.guide"><img src="./assets/templ.svg" height="25"></a> |
-| **Platform & Ops** | <a href="https://www.kernel.org"><img src="./assets/linux.svg" height="25"></a> <a href="https://learn.microsoft.com/en-us/windows/wsl/"><img src="./assets/wsl.svg" height="25"></a> <a href="https://git-scm.com"><img src="./assets/git.svg" height="25"></a> <a href="https://www.hetzner.com"><img src="./assets/hetzner.svg" height="25"></a> <a href="https://www.digitalocean.com"><img src="./assets/digitalocean.svg" height="25"></a> |
----
+
 
 ### Architecture & Projects
-
 **[Engineering Portfolio](https://github.com/theaaronn/portfolio)**  
 Technical breakdowns and public tools.
 
-*   **[Essential Oil Knowledge Engine](https://github.com/theaaronn/portfolio/blob/master/essentialEngine/README.md)**: B2B RAG platform (Go/pgvector/Redis) focused on context-bounded generation.
+*   **[Essential Oil Knowledge Engine](https://github.com/theaaronn/portfolio/blob/master/essentialEngine/README.md)**: B2C RAG platform (Go/pgvector/Redis) focused on context-bounded generation.
 *   **[KeyCrypt](https://github.com/theaaronn/keycrypt)**: A minimalist CLI utility for generating cryptographically secure keys with support for multiple encoding specs (Hex, Base32, Base64, URL-Safe).
+
+
+
+### Connect with me
+
+* Email: [caper2711@hotmail.com](mailto:caper2711@hotmail.com)
+* Linkedin: https://www.linkedin.com/in/theaaronn
 
 ---
 
@@ -48,11 +48,6 @@ platforms are powerful, but I prefer the transparency and cost model of a VPS.
 **CLI-First**  
 Most of my workflow happens in the terminal. I prefer keeping my hands on the keyboard than reaching for my mouse.
 
----
-
-### Connect with me
-
-[Email](mailto:caper2711@hotmail.com)
 
 <div align="right">
   <img src="./assets/gopherpet.gif" alt="Gopher Pet" width="20"/>
