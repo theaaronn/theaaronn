@@ -5,8 +5,7 @@ Probably hanging out in a CLI app
 
 
 ### Tech and Tools
-[![Tech icons](https://skillicons.dev/icons?i=go,bash,postgres,mysql,redis,htmx,tailwind,html,css,git,github,linux,docker,vscode&perline=7)](https://skillicons.dev)
-
+[![Skills](https://skills.syvixor.com/api/icons?i=go,bash,postgresql,mysql,redis,htmx,echo,templ,tailwind,html,css3,git,github,linux,docker,vscode,opencode,githubcopilot,fedora,kitty,zen&perline=7)](https://github.com/syvixor/skills-icons)
 
 
 ### Architecture & Projects
