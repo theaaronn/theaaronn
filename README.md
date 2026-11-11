@@ -5,7 +5,7 @@ Probably hanging out in a CLI app
 
 
 ### Tech and Tools
-[![Skills](https://skills.syvixor.com/api/icons?i=go,bash,postgresql,mysql,redis,htmx,echo,templ,tailwind,html,css3,git,github,linux,docker,vscode,opencode,githubcopilot,fedora,kitty,zen&perline=7)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=go,bash,postgresql,mysql,redis,htmx,echo,templ,tailwind,html,css3,git,github,linux,docker,vscode,opencode,githubcopilot,fedora,kitty,zen,jira&perline=7)](https://github.com/syvixor/skills-icons)
 
 
 ### Architecture & Projects
